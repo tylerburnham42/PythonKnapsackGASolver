@@ -11,6 +11,8 @@ This is currently setup to solve change making problems but can be easily adapte
 |The last is the max weight for the knapsack.  |
 
 A test case is based off the XKCD comic https://xkcd.com/287/   
+![https://xkcd.com/287/](https://imgs.xkcd.com/comics/np_complete.png)
+
 **Input**
 ```
 6
